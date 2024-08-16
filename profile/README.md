@@ -7,3 +7,19 @@ Computer-assisted collaborative peer grading is a developing growth area in acad
     style="width: 700px;"
     src="https://github.com/BlockchainAssessment/.github/blob/main/Blockment.jpg">
 </div>
+
+### Publications
+
+This project has contributed to the following academic papers:
+
+1. **A Blockchain Approach to Academic Assessment**
+   - **Authors:** Sharareh Alipour, Sina Elahimanesh, Soroush Jahanzad, Parimehr Miorassafar, Seyed Parsa Neshaei
+   - **Conference:** CHI '22: CHI Conference on Human Factors in Computing Systems
+   - **Date:** April 2022
+   - **DOI:** [10.1145/3491101.3519682](https://doi.org/10.1145/3491101.3519682)
+
+2. **Improving Grading Fairness and Transparency with Decentralized Collaborative Peer Assessment**
+   - **Authors:** Sharareh Alipour, Sina Elahimanesh, Soroush Jahanzad, Iman Mohammadi, Parimehr Miorassafar, Seyed Parsa Neshaei, Mojtaba Tefagh
+   - **Journal:** Proceedings of the ACM on Human-Computer Interaction 8(CSCW1)
+   - **Date:** April 2024
+   - **DOI:** [10.1145/3637350](https://doi.org/10.1145/3637350)
