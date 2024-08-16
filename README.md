@@ -1,3 +1,3 @@
-# .github repository of Blockchain Assessment Organization
+# .github repository of Blockment Organization
 
-You can find the readme of the organization in [here](https://github.com/BlockchainAssessment/.github/blob/main/profile/README.md).
+You can find the readme of the organization in [here](https://github.com/Blockment/.github/blob/main/profile/README.md).
